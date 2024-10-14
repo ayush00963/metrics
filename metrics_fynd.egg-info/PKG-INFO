@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: metrics
+Name: metrics-fynd
 Version: 0.1.0
 Summary: A package for setting up instrumentation in FastAPI applications.
 Home-page: https://github.com/ayush00963/metrics
