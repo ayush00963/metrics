@@ -15,7 +15,7 @@ setup(
     long_description_content_type='text/markdown',
     author='ayush00963',  # Replace with your name
     author_email='ayushkumar@fynd.team',  # Replace with your email
-    url='https://github.com/ayush00963/metrics',  # Replace with your package URL
+    url='https://github.com/ayush00963/metrics_fynd',  # Replace with your package URL
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',  # Replace with your license
