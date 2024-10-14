@@ -23,3 +23,4 @@ setup(
     ],
     python_requires='>=3.6',  # Specify the Python version required
 )
+

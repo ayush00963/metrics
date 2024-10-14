@@ -17,11 +17,11 @@ def setup_instrumentation(app, config):
     LoggingInstrumentor(set_logging_format=True)
 
     # Initialize Sentry for error tracking
-    sentry_sdk.init(
-        dsn=config.SENTRY_DSN,
-        traces_sample_rate=1.0,
-        profiles_sample_rate=1.0,
-    )
+    # sentry_sdk.init(
+    #     dsn=config.SENTRY_DSN,
+    #     traces_sample_rate=1.0,
+    #     profiles_sample_rate=1.0,
+    # )
 
     # Add Sentry middleware
     app.add_middleware(SentryAsgiMiddleware)
