@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
-Name: metrics-fynd
-Version: 0.1.0
+Name: metrics-fynd-0.1
+Version: 0.1.1
 Summary: A package for setting up instrumentation in FastAPI applications.
 Home-page: https://github.com/ayush00963/metrics_fynd
 Author: ayush00963

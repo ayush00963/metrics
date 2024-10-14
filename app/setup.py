@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='metrics_fynd',  # Replace with your package name
-    version='0.1.0',  # Version of your package
+    name='metrics_fynd_0.1',  # Replace with your package name
+    version='0.1.1',  # Version of your package
     packages=find_packages(),  # Automatically find packages in the app directory
     install_requires=[
         'prometheus-fastapi-instrumentator',
