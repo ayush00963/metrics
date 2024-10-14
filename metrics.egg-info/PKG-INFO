@@ -1,10 +1,10 @@
 Metadata-Version: 2.1
-Name: my-package
+Name: metrics
 Version: 0.1.0
 Summary: A package for setting up instrumentation in FastAPI applications.
-Home-page: https://github.com/yourusername/my_package
-Author: Your Name
-Author-email: your.email@example.com
+Home-page: https://github.com/ayush00963/metrics
+Author: ayush00963
+Author-email: ayushkumar@fynd.team
 License: UNKNOWN
 Description: UNKNOWN
 Platform: UNKNOWN

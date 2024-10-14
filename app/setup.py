@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='my_package',  # Replace with your package name
+    name='metrics',  # Replace with your package name
     version='0.1.0',  # Version of your package
     packages=find_packages(),  # Automatically find packages in the app directory
     install_requires=[
